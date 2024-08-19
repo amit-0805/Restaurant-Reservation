@@ -1,0 +1,174 @@
+{
+    "data": [
+        {"ourQualities" : [
+            {
+                "id": 1,
+                "image": "./quality_food.svg",
+                "title": "QUALITY FOOD",
+                "description": "We take pride in crafting culinary masterpieces using only the finest, freshest ingredients. Our commitment to quality ensures every dish is a symphony of flavors, delivering an unforgettable dining experience that exceeds expectations." 
+            },
+            {
+                "id": 2,
+                "image": "./super_taste.svg",
+                "title": "SUPER TASTE",
+                "description": "Prepare your taste buds for an explosion of flavors! Our chefs, driven by a passion for gastronomy, skillfully blend unique spices and textures to create dishes that not only satiate your appetite but leave you craving the exceptional taste that defines Binary Bites" 
+            },
+            {
+                "id": 3,
+                "image": "./fast_delivery.svg",
+                "title": "FAST DELIVERY",
+                "description": "We understand that sometimes you want our delectable dishes in the comfort of your home. With our swift and efficient delivery service, savor the same quality and taste you love from Binary Bites in the convenience of your own space. Your satisfaction is our priority, delivered to your doorstep without compromising on excellence."
+            }
+        ],
+        "dishes": [
+            {
+                "id": 1,
+                "image": "./dinner1.png",
+                "title": "PANEER BUTTER MASALA",
+                "category": "Dinner"
+            },
+            {
+                "id": 2,
+                "image": "./dinner2.png",
+                "title": "SHEEKH KEBAB",
+                "category": "Starter"
+            },
+            {
+                "id": 3,
+                "image": "./breakfast1.png",
+                "title": "OAT MEAL",
+                "category": "Breakfast"
+            },
+            {
+                "id": 4,
+                "image": "./dinner3.png",
+                "title": "FRUIT FOREST",
+                "category": "Dessert"
+            },
+            {
+                "id": 5,
+                "image": "./lunch1.png",
+                "title": "CHICKEN BIRYANI",
+                "category": "Lunch"
+            },
+            {
+                "id": 6,
+                "image": "./dinner4.png",
+                "title": "TOMATO SOUP",
+                "category": "Appetizer"
+            },
+            {
+                "id": 7,
+                "image": "./dinner5.png",
+                "title": "FRENCH FRIES",
+                "category": "Appetizer"
+            },
+            {
+                "id": 8,
+                "image": "./dinner6.png",
+                "title": "RAINBOW ICE-CREAM",
+                "category": "Dessert"
+            }
+        ],
+        "team": [
+            {
+                "id": 1,
+                "image": "./team_member_1.png",
+                "name": "Rohan D",
+                "designation": "Team Lead"
+            },
+            {
+                "id": 2,
+                "image": "./team_member_2.png",
+                "name": "Amit A",
+                "designation": "Frontend Developer"
+            },
+            {
+                "id": 3,
+                "image": "./team_member_3.png",
+                "name": "Prajwal K",
+                "designation": "Backend Developer"
+            },
+            {
+                "id": 4,
+                "image": "./team_member_4.png",
+                "name": "Dharshan R K",
+                "designation": "Database Manager"
+            }
+        ],
+        "testimonials": [
+            {
+                "id": 1,
+                "image": "./review1.png",
+                "description": "Morbi nulla nec dui lacus, in. Libero in pretium metus massa. Sodales dignissim vitae mauris varius faucibus. Eleifend dui, non laoreet ac luctus facilisis diam. Enim scelerisque vel at id viverra tellus.",
+                "rating": 4,
+                "userName": "Jane Cooper"
+            },
+            {
+                "id": 2,
+                "image": "./review2.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 4.5,
+                "userName": "Esther Howard"
+            },
+            {
+                "id": 3,
+                "image": "./review3.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 5,
+                "userName": "Guy Hawkins"
+            }
+        ],
+        "who_we_are": [
+            {
+                "id": 1,
+                "number": "2",
+                "title": "Restaurants"
+            },
+            {
+                "id": 2,
+                "number": "7",
+                "title": "Chef In Kitchen"
+            },
+            {
+                "id": 3,
+                "number": "05",
+                "title": "Years Of Experience"
+            },
+            {
+                "id": 4,
+                "number": "20",
+                "title": "Food Dishes"
+            }
+        ],
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "HOME",
+                "link": "heroSection"
+            },
+            {
+                "id": 2,
+                "title": "ABOUT US",
+                "link": "about"
+            },
+            {
+                "id": 3,
+                "title": "SERVICES",
+                "link": "qualities"
+            },
+            {
+                "id": 4,
+                "title": "TEAM",
+                "link": "team"
+            },
+            {
+                "id": 5,
+                "title": "RESERVATION",
+                "link": "reservation"
+            }
+        ]
+    
+    } 
+    ]
+}
